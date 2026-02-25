@@ -1,5 +1,5 @@
 // Hier den Titel eingeben
-:title: Test With Branches (T000)
+:title: Test_With_Branches (T000)
 :subtitle: Modelldokumentation
 ifdef::backend-pdf[]
 = {title}
